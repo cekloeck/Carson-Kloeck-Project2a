@@ -1,0 +1,128 @@
+a:link {
+    color: rgb(0, 255, 21);
+    background-color: transparent;
+    text-decoration: none;
+    font-family: 'Yuji Boku', serif;
+  }
+  
+  a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(0, 255, 221);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  #nav{
+    text-align: center;
+  }
+body{
+    color:#ffffff;
+    /* background-image: url(images/sscdebut.JPG); */
+    /* background-color: black; */
+    background-image: linear-gradient(to bottom right, rgb(255, 196, 0), rgb(228, 0, 0), rgb(255, 51, 0));
+}
+p{
+  font-family: 'El Messiri', sans-serif;
+  font-size: 30px;
+  
+}
+h1{
+    font-family: 'Yuji Boku', serif;
+    text-align: center;
+    font-size: 55px;
+    
+}
+h2{
+  font-family: 'Yuji Boku', serif;
+  font-size: 30px;
+  
+}
+h3{
+  font-family: 'Yuji Boku', serif;
+  font-size: 40px;
+  
+}
+footer{
+    color: greenyellow
+    font-family: 'El Messiri', sans-serif;
+    
+}
+.logo {
+  font-family: 'Yuji Boku', serif;
+    text-align: center;
+    /* background-image: url(images/sscdebut.JPG); */
+    
+}
+.header{
+  text-align:center;
+}
+#cheersbruv {  
+  width: auto;  
+  text-align: center;  
+  padding: 15px;  
+border: 3px solid red;  
+  }  
+img {  
+  max-width: 70%;  
+  height: auto;  
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  }  
+li {
+  display: inline-block;
+  text-align: center;
+  padding: 14px 16px;
+}
+#frontPage{
+  text-align: center;
+  
+}
+#comingUp{
+  text-align: center;
+  
+}
+#contact{
+  text-align: center;
+  
+}
+#footer{
+  color: greenyellow;
+  font-family: 'El Messiri', sans-serif;
+}
+#aboutus{
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.debutshow{
+  text-align: center;
+  font-size: 15px;
+}
+input[type=text] {
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 4px;
+  width: 70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.form {
+  font-family: 'Yuji Boku', serif;
+  font-size: x-large;
+  padding: 60px;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
